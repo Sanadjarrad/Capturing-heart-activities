@@ -15,3 +15,23 @@ This repository contains code for extracting human pulse using MATLAB. additiona
 - /"EKG Recordings" contains reference EKG recordings used for testing 
 
 - /"EKG Raw Data (CSV)" contains the CSV files for the EKG recordings used for testing
+
+## How to Set Up the Test
+
+### Prerequisites
+1. Install Android Studio.
+2. Install MATLAB for processing the audio data.
+3. Ensure you have ADB (Android Debug Bridge) installed for transferring files.
+4. Set up WiFi debugging on your phone for connecting to Android Studio.
+
+## Steps to Run the Test
+## 1. Clone the Repository
+
+Open a terminal or command prompt and navigate to the directory where you want to save the project.
+Run the following command to clone the repository:
+```
+git clone <repository-url>
+```
+Replace <repository-url> with the actual URL of the Git repository.
+Navigate to the project directory:
+cd Extracting-Pulse
